@@ -3,7 +3,7 @@ Get and print GEL echange rate and live statistics about COVID-19 cases in Georg
 Application runs only in terminal interface.
 
 ## Dependency
-`openssl-devel` must be installed on the system to compile the project.
+`openssl-devel` must be installed on the system to compile the project. Required for HTTPS requests.
 
 ## Installation
 You can compile and install this project like any other unix dev package.
