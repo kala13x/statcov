@@ -3,9 +3,8 @@ Get and print GEL echange rate and live statistics about COVID-19 cases in Georg
 Application runs only in terminal interface.
 
 ## Dependency
-`openssl-devel` must be installed on the system to compile the project. Required for HTTPS requests.
-
-Red-Hat family: `sudo dnf install openssl-devel`
+`openssl-devel` must be installed on the system to compile the project. Required for HTTPS requests.<br/>
+Red-Hat family: `sudo dnf install openssl-devel`<br/>
 Debian family: `sudo apt-get install libssl-dev`
 
 ## Installation
