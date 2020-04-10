@@ -1,11 +1,12 @@
 ## StatCov
-Get and print live statistics about COVID-19 cases in georgia and GEL echange rate in terminal interface.
+Get and print GEL echange rate and live statistics about COVID-19 cases in Georgia.
+Application runs only in terminal interface.
 
 ## Dependency
-'openssl-devel' must be installed in the system to compile the project.
+`openssl-devel` must be installed on the system to compile the project.
 
 ## Installation
-You can compile and install this project like any unix dev package.
+You can compile and install this project like any other unix dev package.
 ```
 git clone https://github.com/kala13x/statcov.git
 cd statcov
