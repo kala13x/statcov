@@ -5,6 +5,9 @@ Application runs only in terminal interface.
 ## Dependency
 `openssl-devel` must be installed on the system to compile the project. Required for HTTPS requests.
 
+Red-Hat family: `sudo dnf install openssl-devel`
+Debian family: `sudo apt-get install libssl-dev`
+
 ## Installation
 You can compile and install this project like any other unix dev package.
 ```
