@@ -1,5 +1,5 @@
 ## StatCov
-Get and print GEL echange rate and live statistics about COVID-19 cases in Georgia.
+Get and print GEL exchange rate and live statistics about COVID-19 cases in Georgia.
 Application runs only in terminal interface.
 
 ## Dependency
