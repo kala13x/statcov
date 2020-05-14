@@ -11,8 +11,6 @@
 #include "covid.h"
 #include "version.h"
 
-#define XBUFF_SIZE 4098
-
 int COVID_ParseCase(const char *pSource, const char *pCase)
 {
     char *pCases = strstr(pSource, pCase);

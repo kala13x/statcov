@@ -53,6 +53,6 @@
 #define NBG_ADDR        "nbg.gov.ge"
 
 #define XSSL_PORT       443
-#define XBUFF_SIZE      4098
+#define XBUFF_SIZE      8196
 
 #endif /* __XUTILS_INC_H__ */

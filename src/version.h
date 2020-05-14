@@ -11,7 +11,7 @@
 
 #define STATCOV_VERSION_MAX     1
 #define STATCOV_VERSION_MIN     0
-#define STATCOV_BUILD_NUMBER    3
+#define STATCOV_BUILD_NUMBER    4
 
 #ifdef __cplusplus
 extern "C" {
